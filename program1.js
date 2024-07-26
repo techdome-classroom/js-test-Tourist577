@@ -26,7 +26,7 @@ const getTotalIsles = function (grid) {
       }
     }
   }
-
+return ans;
 };
 
 module.exports = getTotalIsles;
